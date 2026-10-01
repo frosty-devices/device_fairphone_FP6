@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "LineageOS/android_hardware_samsung_slsi_nfc",
+    "target_path": "hardware/samsung_slsi/nfc",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "LineageOS/android_kernel_fairphone_sm7635",
+    "target_path": "kernel/fairphone/sm7635",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "LineageOS/android_kernel_fairphone_sm7635-devicetrees",
+    "target_path": "kernel/fairphone/sm7635-devicetrees",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "LineageOS/android_kernel_fairphone_sm7635-modules",
+    "target_path": "kernel/fairphone/sm7635-modules",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_fairphone_FP6",
+    "target_path": "vendor/fairphone/FP6",
+    "branch": "lineage-23.2"
+  }
+]

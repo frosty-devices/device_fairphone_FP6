@@ -7,9 +7,9 @@
 $(call inherit-product, device/fairphone/FP6/device.mk)
 
 # Inherit from common lineage configuration
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/frosty/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_FP6
+PRODUCT_NAME := frosty_FP6
 PRODUCT_DEVICE := FP6
 PRODUCT_MANUFACTURER := Fairphone
 PRODUCT_BRAND := Fairphone

@@ -8,7 +8,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     DEVICE_MAINTAINERS="SirRGB"
 
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay-aicp
+    $(LOCAL_PATH)/overlay-frosty
 
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/core_64_bit_only.mk)
